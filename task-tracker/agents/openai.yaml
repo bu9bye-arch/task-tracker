@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Tracker"
+  short_description: "Track durable state for handoff, parallel, and high-impact work"
+  default_prompt: "Use $task-tracker only when durable task facts, handoff, parallel work, repeated attempts, or high-impact authorization need to be recorded."
